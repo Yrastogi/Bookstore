@@ -1,0 +1,70 @@
+[{
+
+
+"id":1,
+"name":"Store Book",
+"title":"Book title 1 data .json",
+"price":0,
+"category":"Free",
+"image":"./bookpage.jpg"
+},
+
+{
+
+
+    "id":2,
+    "name":"Store Book",
+    "title":"Book title 1 data .json",
+    "price":0,
+    "category":"Free",
+    "image":"./bookpage.jpg"},
+    {
+
+
+        "id":3,
+        "name":"Store Book",
+        "title":"Book title 1 data .json",
+        "price":0,
+        "category":"Free",
+       "image":"./bookpage.jpg" },
+        {
+
+
+            "id":4,
+            "name":"Store Book",
+            "title":"Book title 1 data .json",
+            "price":20,
+            "category":"Free",
+          "image":"./bookpage.jpg"  },
+            {
+
+
+                "id":5,
+                "name":"Store Book",
+                "title":"Book title 1 data .json",
+                "price":30,
+                "category":"Free",
+               "image":"./bookpage.jpg" },
+                {
+
+
+                    "id":6,
+                    "name":"Store Book",
+                    "title":"Book title 1 data .json",
+                    "price":40,
+                    "category":"Free",
+                    "image":"https://www.freepik.com/free-vector/vector-cartoon-illustration-school-building-green-lawn-road-trees-educalion-l_35188211.htm#query=school&position=0&from_view=keyword&track=sph&uuid=075c417b-445f-47f0-92c2-f9a7e41b6fe3"
+                    },
+                    {
+
+
+                        "id":7,
+                        "name":"Store Book",
+                        "title":"Book title 1 data .json",
+                        "price":60,
+                        "category":"Free",
+                        "image":"https://www.freepik.com/free-vector/vector-cartoon-illustration-school-building-green-lawn-road-trees-educalion-l_35188211.htm#query=school&position=0&from_view=keyword&track=sph&uuid=075c417b-445f-47f0-92c2-f9a7e41b6fe3"
+                        }
+                                                                                    
+
+]
