@@ -1,3 +1,4 @@
+<b>To add in my repo raise a PR(Pull request ) for merge I Ensure if functanility are good i help you to make bigger changes </b> 
 Step 1:- copy the github repo url
 
 Step 2:- open cmd terminal 
